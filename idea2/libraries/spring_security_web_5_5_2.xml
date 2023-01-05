@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-security-web-5.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-security-web-5.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
